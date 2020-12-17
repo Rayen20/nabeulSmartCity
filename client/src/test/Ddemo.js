@@ -381,7 +381,7 @@ console.log(ll)
         <Row>
         <Col xs="6">
        <LoadScript    id="script-loader"
-         googleMapsApiKey='AIzaSyAAwFT-cjXOzNkjkxkneVulg-kiBjZlHKA'>
+         googleMapsApiKey='AIzaSyAAwFT-cjXOzNkjkxkneVulg-kiBjZlHKB'>
           <GoogleMap
           id="map"
        onClick={onMapClick}
